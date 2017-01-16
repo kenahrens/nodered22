@@ -1,0 +1,11 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: nodered22
+  host: nodered22
+  disk_quota: 1024M
+  services:
+  - nodered22-cloudantNoSQLDB
+  - nodered22-iotf-service
