@@ -9,7 +9,7 @@
     "mongodb": "~1.4.x",
     "nano": "~5.11.0",
     "newrelic": "^1.37.0",
-    "node-red": "0.x",
+    "node-red": ">=0.20.8",
     "node-red-bluemix-nodes": "1.x",
     "node-red-contrib-bluemix-hdfs": "0.x",
     "node-red-contrib-ibm-wiotp-device-ops": "0.x",
